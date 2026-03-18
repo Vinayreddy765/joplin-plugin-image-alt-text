@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.vinayreddy.imagealttext",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "joplin-plugin-image-alt-text",
+	"description": "Automatically label images using AI",
+	"author": "Vinay Reddy",
+	"homepage_url": "",
+	"repository_url": "https://github.com/Vinayreddy765/joplin-plugin-image-alt-text",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
